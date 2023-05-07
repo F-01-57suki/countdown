@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>カウントダウン</title>
-  <meta name="description" content="一度プッシュする必要がある？">
+  <meta name="description" content="一度プッシュする必要がある？二度目">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
